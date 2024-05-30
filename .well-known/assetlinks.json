@@ -2,8 +2,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.myapplication",
+      "package_name": "com.infrasofttech.mjbl.mobilebanking",
       "sha256_cert_fingerprints":
-      ["09:5C:14:CD:1A:1C:85:5D:9A:79:A2:C0:88:C6:07:AE:79:C1:44:D1:6E:41:EB:69:B6:45:19:FC:73:CC:54:CE"]
+      ["0C:3B:20:E2:76:B3:E3:0E:7B:E8:07:76:02:DB:D5:70:BE:DF:D6:95:E9:42:BE:68:46:7C:82:F0:54:3D:9A:00"]
     }
   }]
